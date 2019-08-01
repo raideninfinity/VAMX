@@ -1,0 +1,23 @@
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\VAMX\bin\Release\VAMX.exe
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\VAMX\bin\Release\VAMX.pdb
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\VAMX\bin\Release\DataStructure.dll
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\VAMX\bin\Release\DataStructure.pdb
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\VAMX\obj\Release\VAMX.csprojResolveAssemblyReference.cache
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\VAMX\obj\Release\VAMX.Properties.Resources.resources
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\VAMX\obj\Release\VAMX.csproj.GenerateResource.Cache
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\VAMX\obj\Release\VAMX.exe
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\VAMX\obj\Release\VAMX.pdb
+C:\Users\Raiden\Desktop\VAMX\VAMX\obj\Release\VAMX.exe
+C:\Users\Raiden\Desktop\VAMX\VAMX\obj\Release\VAMX.pdb
+C:\Users\Raiden\Desktop\VAMX\VAMX\bin\Release\VAMX.exe
+C:\Users\Raiden\Desktop\VAMX\VAMX\bin\Release\VAMX.pdb
+C:\Users\Raiden\Desktop\VAMX\VAMX\bin\Release\DataStructure.dll
+C:\Users\Raiden\Desktop\VAMX\VAMX\bin\Release\DataStructure.pdb
+C:\Users\Raiden\Desktop\VAMX\VAMX\obj\Release\VAMX.csprojResolveAssemblyReference.cache
+C:\Users\Raiden\Desktop\VAMX\VAMX\obj\Release\VAMX.LoadForm.resources
+C:\Users\Raiden\Desktop\VAMX\VAMX\obj\Release\VAMX.SettingsForm.resources
+C:\Users\Raiden\Desktop\VAMX\VAMX\obj\Release\VAMX.Properties.Resources.resources
+C:\Users\Raiden\Desktop\VAMX\VAMX\obj\Release\VAMX.csproj.GenerateResource.Cache
+C:\Users\Raiden\Desktop\VAMX\VAMX\obj\Release\VAMX.MainForm.resources
+C:\Users\Raiden\Desktop\VAMX\VAMX\obj\Release\VAMX.TilesetAdvForm.resources
+C:\Users\Raiden\Desktop\VAMX\VAMX\obj\Release\VAMX.TilesetForm.resources

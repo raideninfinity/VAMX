@@ -1,0 +1,5 @@
+C:\Users\Raiden\Desktop\VAMX\VAMX\DataStructure\bin\x86\Debug\DataStructure.dll
+C:\Users\Raiden\Desktop\VAMX\VAMX\DataStructure\bin\x86\Debug\DataStructure.pdb
+C:\Users\Raiden\Desktop\VAMX\VAMX\DataStructure\obj\x86\Debug\DataStructure.csprojResolveAssemblyReference.cache
+C:\Users\Raiden\Desktop\VAMX\VAMX\DataStructure\obj\x86\Debug\DataStructure.dll
+C:\Users\Raiden\Desktop\VAMX\VAMX\DataStructure\obj\x86\Debug\DataStructure.pdb

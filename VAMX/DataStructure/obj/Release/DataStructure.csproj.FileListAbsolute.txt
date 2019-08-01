@@ -1,0 +1,10 @@
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\DataStructure\bin\Release\DataStructure.dll
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\DataStructure\bin\Release\DataStructure.pdb
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\DataStructure\obj\Release\DataStructure.csprojResolveAssemblyReference.cache
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\DataStructure\obj\Release\DataStructure.dll
+C:\Users\Raiden\documents\visual studio 2015\Projects\VAMX\DataStructure\obj\Release\DataStructure.pdb
+C:\Users\Raiden\Desktop\VAMX\DataStructure\bin\Release\DataStructure.dll
+C:\Users\Raiden\Desktop\VAMX\DataStructure\bin\Release\DataStructure.pdb
+C:\Users\Raiden\Desktop\VAMX\DataStructure\obj\Release\DataStructure.csprojResolveAssemblyReference.cache
+C:\Users\Raiden\Desktop\VAMX\DataStructure\obj\Release\DataStructure.dll
+C:\Users\Raiden\Desktop\VAMX\DataStructure\obj\Release\DataStructure.pdb
